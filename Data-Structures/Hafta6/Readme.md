@@ -1,8 +1,8 @@
 Ağaç veri yapısı, bilgisayar bilimlerinde hiyerarşik yapıyı modellemek için kullanılır. Genellikle düğümlerin (nodes) birbirine bağlı olduğu bir yapıdır ve her düğüm, bir veri öğesi ve alt düğümlerini (child) içerir. Ağaçlar birçok farklı şekilde sınıflandırılabilir ve çeşitli uygulamalara sahiptir, özellikle arama algoritmaları, veritabanı yönetimi, grafik işleme ve oyun programlama gibi alanlarda kullanılır. Şimdi ağaç veri yapısı ile ilgili terimleri ve türleri adım adım inceleyelim.
 
 ![agac_veriyapisi_1.png](agac_veriyapisi_1.png)
-![agac_veriyapisi_1.png](agac_veriyapisi_1.png)
-![agac_veriyapisi_1.png](agac_veriyapisi_1.png)
+![agac_veriyapisi_1.png](agac_veriyapisi_2.png)
+![agac_veriyapisi_1.png](agac_veriyapisi_3.png)
 
 ### Ağaç Veri Yapısı Temel Kavramları:
 #### Node (Düğüm):
